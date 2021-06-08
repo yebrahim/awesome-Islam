@@ -123,6 +123,10 @@ Your contributions are always welcome!
   - [Quran Phone](https://github.com/stankovski/quran-phone) : Quran Phone is a free, open source Quran application for Windows Phone based on Quran Android project (http://android.quran.com/).
   - [alfanous-wp](https://github.com/Alfanous-team/alfanous4wp): mobile app client for [alfanous](http://www.alfanous.org)
 
+#### iOS
+##### Hadiths
+  - [40 Hadiths](https://github.com/yebrahim/fortyhadiths-ios): Simple app for reading the forty Nawawi hadiths, supports Arabic and English.
+
 ### Web Apps
   - [Quran Dev](https://github.com/qurandev/qurandev) : Visualizing Quranic data from different websites in easy browser accessible, offline capable, iphone friendly webpages.
   - [Quran.com front end](https://github.com/quran/quran.com-frontend-v2)
